@@ -5,12 +5,44 @@
     <link>http://localhost:1313/publication_types/paper-conference/</link>
       <atom:link href="http://localhost:1313/publication_types/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Paper-Conference</title>
       <link>http://localhost:1313/publication_types/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>Latent exploration for reinforcement learning</title>
+      <link>http://localhost:1313/publication/chiappa-2023-latent/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2023-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MyoChallenge 2022: Learning contact-rich manipulation using a musculoskeletal hand</title>
+      <link>http://localhost:1313/publication/caggiano-2023-myochallenge/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/caggiano-2023-myochallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMAP: a Distributed Morphological Attention Policy for learning to locomote with a changing body</title>
+      <link>http://localhost:1313/publication/chiappa-2022-dmap/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2022-dmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-distribution generalization of internal models is correlated with reward</title>
+      <link>http://localhost:1313/publication/mann-2021-out/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mann-2021-out/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>

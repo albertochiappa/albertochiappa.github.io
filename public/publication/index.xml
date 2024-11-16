@@ -5,12 +5,92 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>Acquiring musculoskeletal skills with curriculum-based reinforcement learning</title>
+      <link>http://localhost:1313/publication/chiappa-2024-acquiring/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2024-acquiring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Could ChatGPT get an Engineering Degree? Evaluating Higher Education Vulnerability to AI Assistants</title>
+      <link>http://localhost:1313/publication/borges-2024-could/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/borges-2024-could/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task-driven neural network models predict neural dynamics of proprioception</title>
+      <link>http://localhost:1313/publication/vargas-2024-task/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vargas-2024-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method and device for determining estimated real dimensions of an elevator car</title>
+      <link>http://localhost:1313/publication/vilagrasa-2023-method/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vilagrasa-2023-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Latent exploration for reinforcement learning</title>
+      <link>http://localhost:1313/publication/chiappa-2023-latent/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2023-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MyoChallenge 2022: Learning contact-rich manipulation using a musculoskeletal hand</title>
+      <link>http://localhost:1313/publication/caggiano-2023-myochallenge/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/caggiano-2023-myochallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing the Drag of a Bluff Body by Deep Reinforcement Learning</title>
+      <link>http://localhost:1313/publication/ballini-2023-reducing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ballini-2023-reducing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for monitoring characteristics of a door motion procedure of an elevator door using a smart mobile device</title>
+      <link>http://localhost:1313/publication/chiappa-2022-method/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2022-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMAP: a Distributed Morphological Attention Policy for learning to locomote with a changing body</title>
+      <link>http://localhost:1313/publication/chiappa-2022-dmap/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2022-dmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Out-of-distribution generalization of internal models is correlated with reward</title>
+      <link>http://localhost:1313/publication/mann-2021-out/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mann-2021-out/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example preprint / working paper</title>
@@ -26,6 +106,30 @@
 &lt;/div&gt;
 &lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Mesh adaptation-aided image segmentation</title>
+      <link>http://localhost:1313/publication/chiappa-2019-mesh/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2019-mesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heuristic p-Adaptivity for the Discontinous Galerkin Method</title>
+      <link>http://localhost:1313/publication/chiappa-2018-heuristic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2018-heuristic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asynchronous updates for stochastic gradient descent</title>
+      <link>http://localhost:1313/publication/chiappa-2017-asynchronous/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2017-asynchronous/</guid>
+      <description></description>
     </item>
     
     <item>
