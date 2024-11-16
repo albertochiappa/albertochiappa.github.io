@@ -83,17 +83,6 @@ education:
       - Real and Functional Analysis
       - Parallel Computing
       - Partial Differential Equations
-- area: BSc Mathematical Engineering
-    institution: Polytechnic University of Milan
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 110/110
-      
-      Courses included:
-      - Probability Theory
-      - Numerical Analysis
-      - Statistics
 work:
   - position: Team leader Schindler EPFL Lab
     company_name: Schindler
