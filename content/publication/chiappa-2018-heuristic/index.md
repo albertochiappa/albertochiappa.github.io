@@ -1,0 +1,11 @@
+---
+title: Heuristic p-Adaptivity for the Discontinous Galerkin Method
+authors:
+- Alberto Chiappa
+- Riccardo Peli
+- Luca Bonaventura
+date: '2018-01-01'
+publishDate: '2024-11-16T17:37:15.232233Z'
+publication_types:
+- thesis
+---
