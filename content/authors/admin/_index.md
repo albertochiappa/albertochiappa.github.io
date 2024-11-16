@@ -48,44 +48,55 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computational Neuroscience
+  - Autonomous Agents
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+  - area: PhD Computational Neuroscience
+    institution: EPFL
+    date_start: 2021-01-01
+    date_end: 
+    summary: 
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: MSc Computational Science and Engineering
+    institution: EPFL
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.56/6.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+      - Machine Learning
+      - Software Engineering
+      - Signal Processing
+  - area: MSc Mathematical Engineering
+    institution: Polytechnic University of Milan
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 110/110 cum laude
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Real and Functional Analysis
+      - Parallel Computing
+      - Partial Differential Equations
+- area: BSc Mathematical Engineering
+    institution: Polytechnic University of Milan
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 110/110
+      
+      Courses included:
+      - Probability Theory
+      - Numerical Analysis
+      - Statistics
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Team leader Schindler EPFL Lab
+    company_name: Schindler
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
@@ -183,4 +194,6 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi, I am a PhD student in Computational Neuroscience at EPFL, supervised by Prof. Alexander Mathis. I am currently interning at Sony in Tokyo.
+I have lead the Schindler EPFL Lab for two years before starting my PhD. I hold a MSc in Computational Science and Engineering (CSE) from EPFL and a MSc and a BSc from 
+the Polytechnic Univeristy of Milan (POLIMI) in Mathematical Engineering.
