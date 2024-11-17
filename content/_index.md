@@ -35,11 +35,10 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My current goal is to develop embodied artificial intelligence capable of **human-level motor control**. The focus of my PhD has been on training agents
+        which can control realistic models of the human body. When can learn a great deal about how the brain controls our body, when we have an
+        artificial system capable of locomotion or dexterous manipulation. More recently, I have also deveoloped **autonomous agents for advertisement bidding**.
+        Previously, I have worked **traffic optimization** with Reinforcement Learning.
     design:
       columns: '1'
   - block: collection
