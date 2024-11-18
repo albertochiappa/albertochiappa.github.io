@@ -5,9 +5,12 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
-
+  mode: dark
+  color: sky
+  # bio_picture:
+  #   size: 5000px
+  # customCSS:
+  #   - css/custom.css
 # SEO
 marketing:
   seo:
