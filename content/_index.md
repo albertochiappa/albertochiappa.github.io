@@ -27,7 +27,7 @@ sections:
           # filename: stacked-peaks.svg
           filename: verbier.jpeg 
           filters:
-            brightness: 0.5
+            brightness: 0.45
           size: cover
           position: center
           parallax: false
