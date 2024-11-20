@@ -20,6 +20,9 @@ summary: Our winning solution to the NeurIPS MyoChallenge provides insights abou
 
 tags:
   - Neuron
+  - Curriculum Learning
+  - Reinforcement Learning
+  - Musculoskeletal Simulation
 
 # Display this page in the Featured widget?
 featured: true

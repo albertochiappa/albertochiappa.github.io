@@ -128,16 +128,16 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
         percent: 100
         icon: chart-bar
-      # - name: SQL
-      #   description: ''
-      #   percent: 40
-      #   icon: circle-stack
+      - name: Reinforcement Learning
+        description: ''
+        percent: 100
+        icon: robot
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -149,11 +149,11 @@ skills:
       - name: Tennis
         description: ''
         percent: 100
-        icon: raquet
+        icon: tennis
       - name: Chess
         description: ''
-        percent: 80
-        icon: pawn
+        percent: 100
+        icon: chess
 
 languages:
   - name: English
@@ -168,14 +168,29 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: TODO
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Auto-Bidding in Large-Scale Auctions
+    url: https://tianchi.aliyun.com/specials/promotion/neurips2024_alimama#/
+    date: '2023-11-20'
+    awarder: NeurIPS 2024 & Alibaba
+    icon: alibaba
     summary: |
-      TODO
-  # - title: Blockchain Fundamentals
+      1st place in phase 1, 6th place in phase 2, with Briti Gangopadhyay.
+  - title: MyoChallenge 2023 - Winner
+    url: https://sites.google.com/view/myosuite/myochallenge/myochallenge-2023
+    date: '2023-11-25'
+    awarder: NeurIPS 2023
+    icon: myosuite
+    summary: |
+      Winner of the second edition of the MyoChallenge, together with Alessandro Marin Vargas and Alexander Mathis.
+  - title: MyoChallenge 2022 - Winner
+    url: https://sites.google.com/view/myosuite/myochallenge/myochallenge-2022
+    date: '2022-11-25'
+    awarder: NeurIPS 2022
+    icon: myosuite
+    summary: |
+      Winner to the first edition of the MyoChallenge, together with Pablo Tano, Nisheet Patel, Alexandre Pouget and Alexander Mathis
+
+# - title: Blockchain Fundamentals
   #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   #   date: '2023-07-01'
   #   awarder: edX

@@ -36,7 +36,11 @@ abstract: Due to the curse of dimensionality, learning policies that map high-di
 summary: Lattice injects exploration noise into the latent state of the policy network, inducing structured exploration across action elements.
 
 tags:
-  - NeurIPS 2023
+  - NeurIPS
+  - Reinforcement Learning
+  - Exploration
+  - Musckuloskeletal Simulation
+  - Motor Control
 
 # Display this page in the Featured widget?
 featured: true

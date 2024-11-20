@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NeurIPS | Alberto Chiappa</title>
+    <link>http://localhost:1313/tags/neurips/</link>
+      <atom:link href="http://localhost:1313/tags/neurips/index.xml" rel="self" type="application/rss+xml" />
+    <description>NeurIPS</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11182651916002959065.png</url>
+      <title>NeurIPS</title>
+      <link>http://localhost:1313/tags/neurips/</link>
+    </image>
+    
+    <item>
+      <title>The NeurIPS auto-bidding challenge by Alibaba is over!</title>
+      <link>http://localhost:1313/post/alibaba_challenge/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/alibaba_challenge/</guid>
+      <description>&lt;p&gt;During my internship at Sony, I had the exciting opportunity to participate in the NeurIPS 2024 Challenge: &lt;a href=&#34;https://tianchi.aliyun.com/specials/promotion/neurips2024_alimama#/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Auto-Bidding in Large-Scale Auctions&lt;/a&gt;. The challenge focused on developing an auto-bidding agent for advertisement slots, like the sponsored links you see during a Google search or the promoted products on platforms like AliExpress. These slots are assigned through a second-price auction, where multiple agents bid to display their advertisement, and the winner can show their own  paying a fee equal to the second-highest bid.&lt;/p&gt;
+&lt;p&gt;Our team used a technique that we called &lt;strong&gt;Oracle Imitation Learning (OIL)&lt;/strong&gt;, where the agent learns bidding strategies by mimicking a &amp;ldquo;perfectly knowledgeable&amp;rdquo; policy. This approach helped the agent navigate uncertainty effectively. We were really happy to win the first phase of the challenge. Though fierce competition saw us finish 6th in the final phase out of 700 participants, I am proud of what we achieved, and we were also awarded a prize of 1000$. Entering the competition with no prior experience in this domain gave me a fresh perspective, enabling me to propose an original solution. Thanks to the team at Sony for their support, especially to Briti Gangopadhyay!&lt;/p&gt;
+&lt;p&gt;We’re now working on a preprint to describe OIL in detail—stay tuned! In the meantime, &lt;strong&gt;I’ll be presenting our solution at the challenge workshop during NeurIPS on Saturday, December 14th, at 3:30 p.m. PST&lt;/strong&gt;. While I won’t be able to attend in person due to being in Tokyo, I’m looking forward to sharing our work through Zoom!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latent exploration for Reinforcement Learning (Lattice)</title>
+      <link>http://localhost:1313/publication/chiappa-2023-latent/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2023-latent/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>DMAP: a Distributed Morphological Attention Policy for learning to locomote with a changing body</title>
+      <link>http://localhost:1313/publication/chiappa-2022-dmap/</link>
+      <pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2022-dmap/</guid>
+      <description>&lt;!-- 
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+  
+    
+  
+
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
