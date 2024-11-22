@@ -36,7 +36,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        My current research goal is to develop embodied artificial intelligence capable of **human-level motor control**. The focus of my PhD has been on training agents which can control realistic models of the human body. We can learn a great deal about how the brain controls our body, when we have an artificial system capable of locomotion or dexterous manipulation. More recently, I have developed **autonomous agents for advertisement bidding**.
+        My current research goal is to develop embodied artificial intelligence capable of **human-level motor control**. The focus of my PhD has been on training agents which can control realistic models of the human body. We can learn a great deal about how the brain controls our body, when we can styudy an artificial agent able to locomote and to dexterously manipulate objects. More recently, I have developed **autonomous agents for advertisement bidding**.
         Previously, I worked on **traffic optimization** with Reinforcement Learning.
     design:
       columns: '1'
