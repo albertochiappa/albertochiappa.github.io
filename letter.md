@@ -1,0 +1,15 @@
+To whom it might concern,
+
+With this brief letter, I would like to motivate why I think to be a strong candidate for the role of quantitarive researcher at QTR.
+
+After a Bachelor's in Mathematical Engineering at the Polytechnic University of Milan, I enrolled in a double Master's program in Computational Science and Engineering at EPFL, where  I built a solid foundation in numerical analysis, machine learning and data science. After my graduation, I led the Schindler EPFL Lab, a small research office at the EPFL Innovation Park, where for two years I oversaw projects at the intersection of academic research and industrial applications. Among these, I worked on a deep reinforcement learning algorithm for traffic optimization and led the development of a maintenance robot prototype, while collaborating with the business department on analytics projects, such as churn prediction of maintenance contracts and identification of risk factors causing projects to exceed their budget. These experiences taught me how to transform theoretical insights into practical solutions.
+
+In the next step of my research career, I joined the graduate school of EPFL to pursue a PhD in Computational Neuroscience and AI, in the group of Prof. Alexander Mathis, which I am going to complete in May 2025. This allowed me to dive deeper into foundational AI research, in particular reinforcement learning, leading to publications at NeurIPS (2022 and 2023) and in Neuron (2024) and Cell (2024). Beyond publishing, I contributed to applied AI challenges, including two victories in the NeurIPS MyoChallenge (2022 and 2023).
+
+Currently, I am in Tokyo for a research internship at Sony, which I will complete in December 2024. Here, I have been developing autonomous agents to support decision-making in the advertisement business. I designed an algorithm to train an auto-bidding agent for advertisement auctions, which performed excellently in the NeurIPS 2024 Auto-bidding challenge and that I will present at the conference in December. Working in Japan has been an invaluable cultural experience, while developing an autonomous agent for real-time advertisement bidding has tested for my ability to apply theoretical notions to a  problem of great practical relevance. I cannot overstate how fulfilling it has been to successfully combine an operations research technique I learnt about 10 years ago with a recent imitation learning algorithm, to achieve state-of-the-art-performance.
+
+Similarly to many problems I have tackled over the years, nvestment management involves decision-making in an uncertain and dynamic environment, where learning robust features to predict future trends is crucial. I believe my past experience equipped me with the skills I need to provide a strong contribution at QRT, and my curiosity and drive to learn will be my key assets for long-term success.  Thank you for considering my application.
+
+Sincerely,
+
+Alberto Chiappa
