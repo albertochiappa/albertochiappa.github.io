@@ -16,7 +16,7 @@ publication: '*Neuron*'
 abstract: Efficient musculoskeletal simulators and powerful learning algorithms provide computational tools to tackle the grand challenge of understanding biological motor control. Our winning solution for the inaugural NeurIPS MyoChallenge leverages an approach mirroring human skill learning. Using a novel curriculum learning approach, we trained a recurrent neural network to control a realistic model of the human hand with 39 muscles to rotate two Baoding balls in the palm of the hand. In agreement with data from human subjects, the policy uncovers a small number of kinematic synergies even though it is not explicitly biased towards low-dimensional solutions. However, selectively inactivating  parts of the control signal, we found that more dimensions contribute to the task performance than suggested by traditional synergy analysis. Overall, our work illustrates the emerging possibilities at the interface of musculoskeletal physics engines, reinforcement learning and neuroscience to advance our understanding of biological motor control.
 
 # Summary. An optional shortened abstract.
-summary: Our winning solution to the NeurIPS MyoChallenge provides insights about motor control and muscle synergies during§ object manipulation.
+summary: Our winning solution to the NeurIPS MyoChallenge provides insights about motor control and muscle synergies during object manipulation.
 
 tags:
   - Neuron

@@ -214,7 +214,7 @@ awards:
 
 ## About Me
 
-Hi, I am a PhD student in Computational Neuroscience at EPFL, supervised by [Prof. Alexander Mathis](https://mathislab.org). I am currently interning at
+Hi, I am a PhD student in Computational Neuroscience at EPFL, supervised by [Prof. Alexander Mathis](https://mathislab.org). I have recently interned at
 [Sony](https://www.sony.com/ja/SonyInfo/research/) in Tokyo. I led the [Schindler EPFL Lab](https://regis.schindler.com/en/epfl-lab.html)
 for two years before starting my PhD. I hold a MSc in [Computational Science and Engineering (CSE)](https://www.epfl.ch/education/master/programs/computational-science-and-engineering/) from [EPFL](https://www.epfl.ch/en/) and a MSc and a BSc from the
 [Polytechnic Univeristy of Milan (POLIMI)](https://www.polimi.it/en) in [Mathematical Engineering](https://www.polimi.it/en/education/laurea-magistrale-programmes/programme-detail/mathematical-engineering-1).

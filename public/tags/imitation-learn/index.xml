@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imitation Learn | Alberto Chiappa</title>
+    <link>http://localhost:1313/tags/imitation-learn/</link>
+      <atom:link href="http://localhost:1313/tags/imitation-learn/index.xml" rel="self" type="application/rss+xml" />
+    <description>Imitation Learn</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11182651916002959065.png</url>
+      <title>Imitation Learn</title>
+      <link>http://localhost:1313/tags/imitation-learn/</link>
+    </image>
+    
+    <item>
+      <title>Auto-bidding in real-time auctions via Oracle Imitation Learning (OIL)</title>
+      <link>http://localhost:1313/publication/chiappa-2024-auto/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chiappa-2024-auto/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
