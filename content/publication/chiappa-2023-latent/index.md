@@ -46,11 +46,11 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: NeurIPS
+  url: https://proceedings.neurips.cc/paper_files/paper/2023/file/b0ca717599b7ba84d5e4f4c8b1ef6657-Paper-Conference.pdf
 
-url_pdf: ''
+url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/b0ca717599b7ba84d5e4f4c8b1ef6657-Paper-Conference.pdf'
 url_code: 'https://github.com/amathislab/lattice'
 url_dataset: ''
 url_poster: ''

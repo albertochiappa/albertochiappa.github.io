@@ -3,7 +3,7 @@ title: Task-driven neural network models predict neural dynamics of propriocepti
 authors:
 - Alessandro Marin Vargas
 - Axel Bisi
-- Alberto S Chiappa
+- admin
 - Chris Versteeg
 - Lee E Miller
 - Alexander Mathis
@@ -12,4 +12,10 @@ publishDate: '2024-11-16T17:37:15.273374Z'
 publication_types:
 - article-journal
 publication: '*Cell*'
+
+links:
+- name: Cell
+  url: 'https://www.sciencedirect.com/science/article/pii/S0092867424002393'
+
+url_pdf: 'https://pdf.sciencedirectassets.com/272196/1-s2.0-S0092867423X00087/1-s2.0-S0092867424002393/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEJH%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIQC617PYnjmkERX4UgGtiem4TWVlQdZFiN4MY5yx9EpGugIgdAElPDoA8pFNcRIEQYqr9va%2B2LLsuiRO%2FKgQ76B02zYqswUIWhAFGgwwNTkwMDM1NDY4NjUiDHr1fJ%2BiHD5a5SF%2BlSqQBRzO1Ojmfq7oB2aTZ81kV5CXRuUMB1SCyL%2BJi3UWhkhjOC7Lo6CuxHAy3yQnCG2ZOE5uEIOB6SwZYw%2B%2B1ON0uLpZtGor00Wb4WzcKteT7ssVj62AKDuUnkRf5n7TlLMO0O56RB%2B6yzDw5x%2FGre5cn4VPx56qNTBZGigmGpy1bDuqmC9CTCj%2B4wEUEnwnqySEia0P3DiRsA%2FNob5JAazrLVfyfnHmOlMNn%2BlZDXiTl1cZeLVJ%2FBs5DTeSQJbfvFShXq1eaKMzEFv4KtEsnVcMdcvrfMIrXijD8KWbJjV6KgAZ0oJn%2BFqXBcpK38H3%2BUexGPFtucDGckKn0o0rfZIz%2FP80h3dgKIrzL5EZyrS%2F%2FODoTmio%2BmLLqFb5Gj1fggPWrQDjTojomHHdwgSr5HXCg4BvYVkKNpnYXuiMyCFJZE5W%2F%2FDrzp%2FQKrBzVcbE8HvOzdBfOLw6%2Fo4RUNN3p%2FHa5cxZN%2BrlNeYwa3rnvGiRQzqUrSqFKbJCdokB1e2okRIZAFeoJ14Xr9YFRenpuZ%2BrKFRkFMyJHOIw%2FoafHa%2FnSt29QYdMZS82hBK%2BN812rXCzgRcioYmN1WhsLK0c0bFfbWhZux7wfTIX4V6OGDOCf38Vsj7QhbYQemcKJdO0rHb6iBdin%2BNWODkqGh5AnoMwNqDbnS4fCkzk4ps0d%2BZwto014sRo5VplKFliEC7fB4LIy0X6R36Ffrs6cZ9ybwj%2FmDNZge5RLbkX37yYkzyeiyJX70Qg9mB4W%2FxsZUnHlGqQ0RIHOOs%2F56SBBsOEctTtJS4kvj7%2BNvJLG4yJ4xnBkHXG2W13VwEyBH74as6Raqxg7j4twl0qH1Szn1G4GGr4r3YnVKpQv1zMmjILz%2Foz5UKGMMmSirsGOrEBmJDO64NtYhKMBDVpWF0ROxePkUJeqADwDn4QoSrloxdyZVLeN%2FqoaUU7rvBkMDlnZnZ6iLCMlfOtSWcp37PF6XiH03Is1lP0WXjY7sISZlykWkn%2B56In%2BUAswHnNRuNTcsIuNmWChdmKSWVN8v8B2EdEJmUonl8ccsbBwuJJ%2FvoC5WTmHKy7f6DHLsdLSFpESMi5dHcestlEArfkTQqiVf1vsxFPGCMWWCVo4JG6SFJ6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241218T102240Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSQTEIC2B%2F20241218%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=abae9766d1b159ad6daf7f37018537c3d40e15ceb72df7f911b1790709b7e231&hash=c98442380f5c11e02eb870031f20e8bd093021c4102cbe1f037f61e18ffb4ac7&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0092867424002393&tid=spdf-c4ee5958-7abe-4bd1-b91a-3673b54d0e2c&sid=f43a007f336ee446229881b423f4d27b9aefgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=190e5909530155050703&rr=8f3e6edbcedd3b57&cc=ch'
 ---

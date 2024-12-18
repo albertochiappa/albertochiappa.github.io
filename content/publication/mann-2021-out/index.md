@@ -3,7 +3,7 @@ title: Out-of-distribution generalization of internal models is correlated with 
 authors:
 - Khushdeep Singh Mann
 - Steffen Schneider
-- Alberto Chiappa
+- admin
 - Jin Hwa Lee
 - Matthias Bethge
 - Alexander Mathis
@@ -13,4 +13,6 @@ publishDate: '2024-11-16T17:37:15.243908Z'
 publication_types:
 - paper-conference
 publication: '*Self-Supervision for Reinforcement Learning Workshop-ICLR*'
+
+url_pdf: https://openreview.net/pdf?id=hR_TNbCr_nQ
 ---

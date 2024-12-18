@@ -3,7 +3,7 @@ title: Method and device for determining estimated real dimensions of an elevato
   car
 authors:
 - Roc Arandes Vilagrasa
-- Alberto Chiappa
+- admin
 - Xavier Guidetti
 - Martin Kusserow
 - Maxim Pavliv

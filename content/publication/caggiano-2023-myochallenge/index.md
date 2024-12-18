@@ -5,7 +5,7 @@ authors:
 - Vittorio Caggiano
 - Guillaume Durandau
 - Huwawei Wang
-- Alberto Chiappa
+- admin
 - Alexander Mathis
 - Pablo Tano
 - Nisheet Patel
@@ -18,4 +18,10 @@ publishDate: '2024-11-16T17:37:15.279406Z'
 publication_types:
 - paper-conference
 publication: '*NeurIPS 2022 Competition Track*'
+
+links:
+- name: PMLR
+  url: 'https://proceedings.mlr.press/v220/caggiano23a.html'
+
+url_pdf: 'https://proceedings.mlr.press/v220/caggiano23a/caggiano23a.pdf'
 ---

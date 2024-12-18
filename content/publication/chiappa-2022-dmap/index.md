@@ -2,7 +2,7 @@
 title: 'DMAP: a Distributed Morphological Attention Policy for learning to locomote
   with a changing body'
 authors:
-- Alberto Silvio Chiappa
+- admin
 - Alessandro Marin Vargas
 - Alexander Mathis
 date: '2022-11-01'
@@ -25,11 +25,11 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+- name: NeurIPS
+  url: https://proceedings.neurips.cc/paper_files/paper/2022/file/f0fae49cdfab57c41c30c9b0244093cb-Paper-Conference.pdf
 
-url_pdf: ''
+url_pdf: 'https://proceedings.neurips.cc/paper_files/paper/2022/file/f0fae49cdfab57c41c30c9b0244093cb-Paper-Conference.pdf'
 url_code: 'https://github.com/amathislab/dmap'
 url_dataset: ''
 url_poster: ''

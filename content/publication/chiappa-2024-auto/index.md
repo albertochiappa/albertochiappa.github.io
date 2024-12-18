@@ -1,7 +1,7 @@
 ---
 title: Auto-bidding in real-time auctions via Oracle Imitation Learning (OIL)
 authors:
-- Alberto Silvio Chiappa
+- admin
 - Briti Gangopadhyay
 - Zhao Wang
 - Shingo Takamatsu
