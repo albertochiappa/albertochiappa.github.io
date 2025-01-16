@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/2024-12-18_CV_Alberto_Chiappa.pdf
+        url: uploads/2025-01-16_CV_Alberto_Chiappa.pdf
     design:
       css_class: dark
       background:
